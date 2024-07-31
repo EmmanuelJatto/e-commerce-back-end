@@ -5,7 +5,6 @@
 - [Description](#description)
 - [Challenges](#challenges)
 - [Recording of Application](#recording-of-application)
-- [Deployable link](#)
 
 # User Story
 AS A manager at an internet retail company
@@ -19,5 +18,7 @@ The goal of this project was to create GET, POST, PUT, and DELETE routes for Cat
 There were many challenges that I faced while creating this project.  One of those challenges was figuring out how to make the put round, so the the data in the database could be updated.  Another challenge was figuring out how to relate the models to eachother.  
 
 # Recording of Application
+![Recording of Application](./images/e-commerce-recording.gif)
+
 
 
